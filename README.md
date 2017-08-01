@@ -1,2 +1,3 @@
 # hello-world
-Misc repo
+
+Misc repository meant to hold things that don't have a home.
